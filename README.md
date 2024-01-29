@@ -9,6 +9,8 @@
   * https://github.com/fatherscott/JoTiger/wiki/queue-server
 * 운영툴 
   * https://github.com/fatherscott/JoTiger/wiki/AdminTool
+* 동접자
+  * https://github.com/fatherscott/JoTiger/wiki/RPM-Or-AU
 * 필요한 이유
   * ### 웹 기반 게임 서버는 대게 대기열 서버가 존재 하지 않는다. 
     * #### Web-based game servers usually do not have queue servers. 
