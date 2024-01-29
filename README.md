@@ -5,11 +5,11 @@
 * 실제 라이브 서비스에 적용중인 기술
 * 서비스 사양
   * c5.4xlarge * 4대 와 cache.t3.micro Redis 1대로 10만명 컨트롤 중입니다.
-* 대기열 서버
+1. 대기열 서버
   * https://github.com/fatherscott/JoTiger/wiki/queue-server
-* 운영툴 
+2. 운영툴 
   * https://github.com/fatherscott/JoTiger/wiki/AdminTool
-* 동접자
+3. 동접자
   * https://github.com/fatherscott/JoTiger/wiki/RPM-Or-AU
 * 필요한 이유
   * ### 웹 기반 게임 서버는 대게 대기열 서버가 존재 하지 않는다. 
