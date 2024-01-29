@@ -7,6 +7,8 @@
   * c5.4xlarge * 4대 와 cache.t3.micro Redis 1대로 10만명 컨트롤 중입니다.
 * 대기열 서버
   * https://github.com/fatherscott/JoTiger/wiki/queue-server
+* 운영툴 
+  * https://github.com/fatherscott/JoTiger/wiki/AdminTool
 * 필요한 이유
   * ### 웹 기반 게임 서버는 대게 대기열 서버가 존재 하지 않는다. 
     * #### Web-based game servers usually do not have queue servers. 
