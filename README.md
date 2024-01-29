@@ -12,9 +12,9 @@
 3. 동접자
    * https://github.com/fatherscott/JoTiger/wiki/RPM-Or-AU
 4. Game-Server-State-Service
-   *. https://github.com/fatherscott/JoTiger/wiki/Game-Server-State-Service
+   * https://github.com/fatherscott/JoTiger/wiki/Game-Server-State-Service
 5. Game-Server-State-Service
-   *. https://github.com/fatherscott/JoTiger/wiki/Game-Server-State-Service
+   * https://github.com/fatherscott/JoTiger/wiki/Game-Server-State-Service
 6. 필요한 이유
   * ### 웹 기반 게임 서버는 대게 대기열 서버가 존재 하지 않는다. 
     * #### Web-based game servers usually do not have queue servers. 
